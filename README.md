@@ -2,7 +2,7 @@
 
 Tired of the grind in Anime Last Stand? Elevate your gameplay with the **Anime Last Stand Script**—a powerful, free, and keyless tool designed to automate battles, collect rewards, and level up faster. Whether you're farming for rare characters or progressing through waves, this script makes your journey smoother and more efficient.([Inner Circle Trader][1], [GitHub][2])
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Anime-Last-Stand/blob/main/anime%20last%20stand.png)
 
 ---
 
